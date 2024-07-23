@@ -8,11 +8,11 @@ To install and use:
 git clone https://github.com/asibai7/Discord-Bot.git
 cd Discord-Bot
 ```
-2. Install discord.py using - pip install discord.py requests
+2. Install discord.py using: pip install discord.py requests
 3. Head over to Discord's developer portal to create and add the bot (with admin permissions) to your server
 4. Setup your API keys in apikeys.py:
 ```
 BotToken = 'YOUR_BOT_TOKEN'
 JokeApi = 'YOUR_JOKE_API_KEY'
 ```
-5. Run the bot - python main.py                      
+5. Run the bot: python main.py
